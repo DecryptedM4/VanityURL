@@ -1,1 +1,1 @@
-# VanityURL
+# Discord Vanity Url Sniper
